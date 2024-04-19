@@ -1,0 +1,1 @@
+export default {".zb-alert":{"color":"brown"}}
