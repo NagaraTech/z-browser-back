@@ -8,6 +8,6 @@ export default {
   theme: {
     extend: {},
   },
-  plugins: [UIPlugin],
+  plugins: [UIPlugin,require("daisyui")],
 }
 
